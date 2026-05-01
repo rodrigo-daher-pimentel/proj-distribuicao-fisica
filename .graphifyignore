@@ -1,0 +1,25 @@
+# Configuracao do Claude Code e agentes
+
+.agents/
+.claude/
+.mcp.json
+.jupyter_ystore.db
+.virtual_documents/
+
+# Binarios numpy (dados brutos das instancias)
+
+\*.npy
+
+# Planilhas (cronograma e base de dados ja documentados)
+
+\*.xlsx
+
+# Templates de documentos (sem conteudo do projeto)
+
+Modelos de Arquivos/
+
+# Caches e outputs
+
+graphify-out/
+**pycache**/
+.ipynb_checkpoints/

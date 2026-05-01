@@ -1,0 +1,17 @@
+{
+  "DEPOT_CEP": "25251560",
+  "g_R$/km": 1.5,
+  "v_kmh": 40.0,
+  "s_min": 15.0,
+  "H_horas": 8.0,
+  "VEHICLES": {
+    "Fiorino": {
+      "Q_kg": 650,
+      "custo_fixo_diario": 250
+    },
+    "VUC": {
+      "Q_kg": 3000,
+      "custo_fixo_diario": 550
+    }
+  }
+}

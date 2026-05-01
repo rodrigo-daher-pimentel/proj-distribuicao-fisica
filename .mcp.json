@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "trello": {
+      "command": "bunx",
+      "args": ["@delorenj/mcp-server-trello"],
+      "env": {
+        "TRELLO_API_KEY": "c63f0b9da7c8ef69257be8ee6d3bcdc5",
+        "TRELLO_TOKEN": "ATTA0cda49c14479d1195dfd1572f2fa994ba3e408b11fec964765bbb7ab0efc99742BF2514A",
+        "TRELLO_BOARD_ID": "69bbf2901873b0e9b957d4c8",
+        "TRELLO_WORKSPACE_ID": "60ccd688b6f5c768010f833a"
+      }
+    },
+    "jupyter": {
+      "command": "uvx",
+      "args": ["jupyter-mcp-server@latest"],
+      "env": {
+        "JUPYTER_URL": "http://localhost:8888",
+        "JUPYTER_TOKEN": "427fe4d67f724674110862ccee05d08a",
+        "ALLOW_IMG_OUTPUT": "true"
+      }
+    }
+  }
+}
