@@ -1,154 +1,131 @@
-# Graph Report - .  (2026-04-15)
+# Graph Report - .  (2026-05-20)
 
 ## Corpus Check
-- 41 files · ~95,830 words
+- 34 files · ~55,578 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 188 nodes · 240 edges · 21 communities detected
-- Extraction: 82% EXTRACTED · 18% INFERRED · 0% AMBIGUOUS · INFERRED: 43 edges (avg confidence: 0.84)
+- 219 nodes · 256 edges · 22 communities (10 shown, 12 thin omitted)
+- Extraction: 94% EXTRACTED · 6% INFERRED · 0% AMBIGUOUS · INFERRED: 16 edges (avg confidence: 0.8)
 - Token cost: 0 input · 0 output
 
+## Community Hubs (Navigation)
+- [[_COMMUNITY_Instancias C1-C4 e Solvers|Instancias C1-C4 e Solvers]]
+- [[_COMMUNITY_Modelagem MILP Parte 2 (Heterogenea)|Modelagem MILP Parte 2 (Heterogenea)]]
+- [[_COMMUNITY_EAP e Entregaveis do Projeto|EAP e Entregaveis do Projeto]]
+- [[_COMMUNITY_Metodos de Otimizacao e Gestao SCRUM|Metodos de Otimizacao e Gestao SCRUM]]
+- [[_COMMUNITY_Fundamentacao Teorica e Sprint Review 1|Fundamentacao Teorica e Sprint Review 1]]
+- [[_COMMUNITY_Heuristicas Construtivas e Busca Local|Heuristicas Construtivas e Busca Local]]
+- [[_COMMUNITY_Preparacao de Dados (Matrizes e Atributos)|Preparacao de Dados (Matrizes e Atributos)]]
+- [[_COMMUNITY_MILP Parte 1 (Homogenea) e Sprint 1|MILP Parte 1 (Homogenea) e Sprint 1]]
+- [[_COMMUNITY_Introducao a CVRP e Bibliografia Geral|Introducao a CVRP e Bibliografia Geral]]
+- [[_COMMUNITY_Variantes do VRP (TSP, MDVRP, VRPTW...)|Variantes do VRP (TSP, MDVRP, VRPTW...)]]
+- [[_COMMUNITY_Canvas de Projeto|Canvas de Projeto]]
+- [[_COMMUNITY_Distribuicao Fisica (Conceito)|Distribuicao Fisica (Conceito)]]
+- [[_COMMUNITY_EAP (Conceito de WBS)|EAP (Conceito de WBS)]]
+- [[_COMMUNITY_Variavel y_k (Ativacao de Veiculo)|Variavel y_k (Ativacao de Veiculo)]]
+- [[_COMMUNITY_Parametro q_i (Demanda)|Parametro q_i (Demanda)]]
+- [[_COMMUNITY_Parametro Q (Capacidade do Veiculo)|Parametro Q (Capacidade do Veiculo)]]
+- [[_COMMUNITY_Parametro c_ij (Custo do Arco)|Parametro c_ij (Custo do Arco)]]
+- [[_COMMUNITY_Parametro f_k (Custo Fixo de Veiculo)|Parametro f_k (Custo Fixo de Veiculo)]]
+- [[_COMMUNITY_Parametro H (Jornada Maxima)|Parametro H (Jornada Maxima)]]
+- [[_COMMUNITY_Parametro v (Velocidade Media)|Parametro v (Velocidade Media)]]
+- [[_COMMUNITY_Parametro s (Tempo de Atendimento)|Parametro s (Tempo de Atendimento)]]
+- [[_COMMUNITY_Parametro g (Custo Variavel por km)|Parametro g (Custo Variavel por km)]]
+
 ## God Nodes (most connected - your core abstractions)
-1. `Aula 3 — Modelagem MILP Parte 1 (frota homogenea, sem MTZ)` - 14 edges
-2. `Projeto Distribuicao Fisica (ENG 4560)` - 11 edges
-3. `1.5 DocumentaÃ§Ã£o e ApresentaÃ§Ãµes` - 8 edges
-4. `Gurobi (solver MIP comercial)` - 7 edges
-5. `Aula 4 — Modelagem MILP Parte 2 (frota heterogenea + MTZ)` - 7 edges
-6. `Notebook Aula 4 — Grupo 2 (MILP Parte 2 + Experimentos)` - 7 edges
-7. `Analise de Sensibilidade - Limite de Tempo` - 7 edges
-8. `Rotas com MTZ + Frota Heterogenea (Visualizacao)` - 7 edges
-9. `Notebook Aula 2 — Preparação de Dados (Grupo 2)` - 5 edges
-10. `Projeto DistribuiÃ§Ã£o FÃ­sica (EAP)` - 5 edges
+1. `Fundamentação Teórica — Sprint Review #1` - 22 edges
+2. `Aula 3 - Modelagem MILP (Parte 1)` - 18 edges
+3. `Aula 4 — Modelagem matemática do CVRP (Parte 2) [Notebook Grupo 2]` - 16 edges
+4. `Aula 1 - Introducao da disciplina` - 10 edges
+5. `Base de Dados (Prolog)` - 8 edges
+6. `Aula 2 - Notebook Grupo 2` - 8 edges
+7. `Vehicle Routing Problem (VRP)` - 8 edges
+8. `Mixed-Integer Linear Programming (MILP)` - 8 edges
+9. `1.5 Documentacao e Apresentacoes` - 8 edges
+10. `Formulação MTZ (Miller-Tucker-Zemlin)` - 7 edges
 
 ## Surprising Connections (you probably didn't know these)
-- `Projeto Distribuicao Fisica (ENG 4560)` --references--> `PUC-Rio (Departamento de Engenharia Industrial)`  [EXTRACTED]
-  CLAUDE.md → Aulas/1/ENG 4560 - Aula 1 - Introdução e apresentação.md
-- `Notebook Aula 4 — Grupo 2 (MILP Parte 2 + Experimentos)` --shares_data_with--> `Base de Dados Prolog (entregas reais)`  [INFERRED]
-  Aulas/4/Aula4_Modelagem_MILP_Parte2/notebook.md → graphify-out/converted/Base de Dados_9e84c929.md
-- `Base de Dados Prolog (entregas reais)` --shares_data_with--> `Instancias C1-C4 (10, 25, 40, 60 clientes)`  [INFERRED]
-  graphify-out/converted/Base de Dados_9e84c929.md → Aulas/3/README.md
-- `Projeto Distribuicao Fisica (ENG 4560)` --references--> `Cronograma do Projeto`  [EXTRACTED]
-  CLAUDE.md → Cronograma_bc2cdaac.md
-- `Capacitated Vehicle Routing Problem (CVRP)` --conceptually_related_to--> `Otimizacao Combinatoria`  [EXTRACTED]
-  CLAUDE.md → Aulas/1/ENG 4560 - Aula 1 - Introdução e apresentação.md
+- `ENG 4560 - Aula 1 - Introdução e apresentação` --references--> `Base de dados Prolog (581 clientes, 25.324 kg, 03/06/2025)`  [INFERRED]
+  Aulas/1/ENG 4560 - Aula 1 - Introdução e apresentação.pdf → Aulas/5/APRESENTACAO.md
+- `Metaheurística: Simulated Annealing` --semantically_similar_to--> `Busca local: 2-opt`  [INFERRED] [semantically similar]
+  Aulas/5/FUNDAMENTACAO.md → Aulas/8/ENG 4560 - Aula 8 - Heurísticas de busca local.pdf
+- `Aula 4B - Canvas e E/Nao-E` --conceptually_related_to--> `EAP (Estrutura Analitica do Projeto)`  [INFERRED]
+  Aulas/4/ENG 4010 - Aula 4B - Canvas e Nao.md → CLAUDE.md
+- `ENG 4560 - Aula 1 - Introdução e apresentação` --references--> `Capacitated Vehicle Routing Problem (CVRP)`  [INFERRED]
+  Aulas/1/ENG 4560 - Aula 1 - Introdução e apresentação.pdf → Aulas/5/FUNDAMENTACAO.md
+- `ENG 4560 - Aula 4 - Modelagem matemática (Parte 2)` --implements--> `Formulação MTZ (Miller-Tucker-Zemlin)`  [EXTRACTED]
+  Aulas/4/ENG 4560 - Aula 4 - Modelagem matemática (Parte 2).pdf → Aulas/5/FUNDAMENTACAO.md
 
 ## Hyperedges (group relationships)
-- **Sprint 1 Deliverables** — eap_relatorio_parcial1, eap_apresentacao_sprint1, eap_modelo_exato, eap_resultados_exato [INFERRED 0.80]
-- **Sprint 2 Deliverables** — eap_relatorio_consolidado, eap_apresentacao_sprint2, eap_heuristicas_construtivas, eap_busca_local, eap_relatorio_comparativo [INFERRED 0.80]
-- **Sprint 3 Deliverables** — eap_relatorio_final, eap_apresentacao_sprint3, eap_apresentacao_banca, eap_metaheuristicas_eap, eap_analise_final [INFERRED 0.80]
-- **EAP Level 2 Areas** — eap_gestao_projeto, eap_pesquisa_modelagem, eap_implementacao, eap_analise_resultados, eap_documentacao [EXTRACTED 1.00]
-- **InstÃ¢ncia GeogrÃ¡fica do CVRP â€” DepÃ³sito e Clientes no RJ** — nb18_deposito_dc, nb18_clientes_hospitais, nb18_municipio_rj, nb18_map_rio [INFERRED 0.85]
-- **VisualizaÃ§Ã£o em TrÃªs PainÃ©is do CVRP** — nb19_three_panel, nb19_rotas_reconstruidas, nb19_subtour_diag [EXTRACTED 1.00]
-- **SoluÃ§Ã£o CVRP com MTZ e Frota HeterogÃªnea na InstÃ¢ncia C1_10** — nb18_mtz_form, nb18_frota_het, nb18_c1_10, nb18_mtz_route_viz [EXTRACTED 0.95]
-- **Formulacao MILP do CVRP (variaveis, objetivo, restricoes)** — aula3_xij, aula3_funcao_objetivo, aula3_restricao_visita_unica, aula3_restricao_conservacao_fluxo, aula3_restricao_deposito, aula3_restricao_capacidade_agregada [EXTRACTED 1.00]
-- **Pipeline Sprint 1: Dados → MILP → Solver → Resultados** — base_dados, instancias_c1_c4, aula3_mip, aula3_gurobi, aula4_mtz, aula4_resultados_com_mtz [INFERRED 0.85]
-- **Tres Classes de Metodos de Solucao para CVRP** — aula1_metodos_exatos, aula1_heuristicas, aula1_metaheuristicas [EXTRACTED 1.00]
+- **Formulacao MILP do CVRP** — aula3_variavel_xij, aula3_funcao_objetivo, aula3_restricao_visita_unica, aula3_restricao_fluxo, aula3_restricao_capacidade, aula3_mtz [EXTRACTED 1.00]
+- **Instancias C1-C4 Equipe 2 (aninhadas)** — aula2_instancia_c1, aula2_instancia_c2, aula2_instancia_c3, aula2_instancia_c4, base_dados_xlsx [EXTRACTED 1.00]
+- **Classes de metodos de solucao por sprint** — aula1_metodos_exatos, aula1_heuristicas, aula1_metaheuristicas, claude_md_sprint1, claude_md_sprint2, claude_md_sprint3 [EXTRACTED 1.00]
+- **Componentes da formulação MILP do CVRP com MTZ** — concept_cvrp, concept_milp, concept_mtz, var_x_ijk, var_u_i, constraint_capacidade [EXTRACTED 1.00]
+- **Pipeline Sprint 1: modelagem exata via Pyomo + Gurobi nas instâncias C1-C4** — sprint1, concept_milp, tool_pyomo, tool_gurobi, instance_C1_10, instance_C4_60 [EXTRACTED 1.00]
+- **Hierarquia de métodos para CVRP: exato → heurística construtiva → busca local → metaheurística** — concept_branch_and_cut, heuristic_clarke_wright, ls_2opt, meta_ils [EXTRACTED 1.00]
 
-## Communities
+## Communities (22 total, 12 thin omitted)
 
-### Community 0 - "Formulacao MILP"
-Cohesion: 0.12
-Nodes (21): Metodos Exatos (PLI, B&B, B&C), Branch and Bound (B&B), Branch and Cut (B&C), Fiorino (Q=650kg, f=R$250), Frota Homogenea (somente VUC), Funcao Objetivo CVRP (custo variavel + custo fixo), Programacao Linear Inteira Mista (MIP/MILP), Aula 3 — Modelagem MILP Parte 1 (frota homogenea, sem MTZ) (+13 more)
+### Community 0 - "Instancias C1-C4 e Solvers"
+Cohesion: 0.08
+Nodes (35): Veiculo Fiorino (Q=650kg, f=R$250), Instancia C1_10 (10 clientes), Instancia C2_25 (25 clientes), Instancia C3_40 (40 clientes), Instancia C4_60 (60 clientes), Instancias C1-C4 (aninhadas, seed 42), Aula 2 - README (Preparacao de Dados), Veiculo VUC (Q=3000kg, f=R$550) (+27 more)
 
-### Community 1 - "Estrutura Analitica (EAP)"
+### Community 1 - "Modelagem MILP Parte 2 (Heterogenea)"
+Cohesion: 0.11
+Nodes (28): Aula 4 — Modelagem matemática do CVRP (Parte 2) [Notebook Grupo 2], Aula 4 — Modelagem matemática do CVRP (Parte 2) [Template Professor], ENG 4560 - Aula 4 - Modelagem matemática (Parte 2), Aula 5 — Acompanhamento Sprint 1, Aula 5 — README, Branch and Bound, Branch and Cut, Frota heterogênea (Fiorino + VUC) (+20 more)
+
+### Community 2 - "EAP e Entregaveis do Projeto"
+Cohesion: 0.07
+Nodes (27): 1.0 Projeto de Distribuicao Fisica (CVRP - Prolog), 1.1.1 EAP, 1.1.2 Canvas de Projeto, 1.1.3 Cronograma, 1.1.4 Matriz E-Nao E-Faz-Nao Faz, 1.1 Gestao de Projeto, 1.2.1 Documento de Revisao Bibliografica, 1.2.2 Documento de Descricao do Problema e Base de Dados (+19 more)
+
+### Community 3 - "Metodos de Otimizacao e Gestao SCRUM"
+Cohesion: 0.09
+Nodes (25): Heuristicas, Metaheuristicas (SA, ILS, GA), Metodos Exatos (PLI, B&B, B&C), NP-Hard (complexidade), Product Owner (P.O.), Scrum Master, Aula 2A - Sprint Planning 1 e Trello, Trello (gerenciamento de tarefas) (+17 more)
+
+### Community 4 - "Fundamentacao Teorica e Sprint Review 1"
+Cohesion: 0.09
+Nodes (23): Apresentação Sprint Review #1 (prompt), Fundamentação Teórica — Sprint Review #1, Pesquisa de Fundamentação Teórica (prompt), Formulação MTZ (Miller-Tucker-Zemlin), SEC — Subtour Elimination Constraints, Subtour (ciclo desconectado do depósito), Ballou, R. H. (2006) — Gerenciamento da Cadeia de Suprimentos, Dantzig, Fulkerson & Johnson (1954) — Large-Scale TSP (+15 more)
+
+### Community 5 - "Heuristicas Construtivas e Busca Local"
+Cohesion: 0.19
+Nodes (16): ENG 4560 - Aula 7A - Sprint Planning 2, ENG 4560 - Aula 7B - Heurísticas construtivas, ENG 4560 - Aula 8 - Heurísticas de busca local, Problemas NP-difíceis, Otimização combinatória, Heurística construtiva: Clarke & Wright Savings, Heurística construtiva: Nearest Neighbor, Busca local: 2-opt (+8 more)
+
+### Community 6 - "Preparacao de Dados (Matrizes e Atributos)"
 Cohesion: 0.15
-Nodes (19): 1.4.3 RelatÃ³rio de AnÃ¡lise Comparativa Final, 1.4 AnÃ¡lise de Resultados, 1.3.3 CÃ³digo de Busca Local, 1.1.2 Canvas de Projeto, 1.1.3 Cronograma, 1.2.2 Documento de DescriÃ§Ã£o do Problema e Dados, 1.1.1 EAP, 1.1.4 Ã‰-NÃ£o Ã‰ / Faz-NÃ£o Faz (+11 more)
+Nodes (14): Distancia Haversine, Matriz de custos c_ij = g * D_ij, Matriz de distancias D_ij (km), Matriz de tempos t_ij = D_ij / v, Aula 2 - Notebook Grupo 2, Aula 2 - Notebook Template (Alunos), Vetor de demanda q_i (kg), Vetor de atendimento s_i (h) (+6 more)
 
-### Community 2 - "Experimentos e Resultados"
+### Community 7 - "MILP Parte 1 (Homogenea) e Sprint 1"
 Cohesion: 0.15
-Nodes (18): Gap de Otimalidade (UB-LB)/UB, Limite Inferior (Lower Bound), Rationale: Modelo sem MTZ para evidenciar importancia da eliminacao de subtours, Resultados Sem MTZ (C1-C4 com subtours), Subtours (ciclos desconectados do deposito), Limite Superior (Upper Bound / Incumbente), Experimento: Comparacao Com/Sem MTZ, Experimento: Gap vs Time Limit (30s, 60s, 300s) (+10 more)
+Nodes (13): ENG 4560 - Aula 2A - Sprint Planning 1 e Trello, ENG 4560 - Aula 3 - Modelagem matemática (Parte 1), ENG 4560 - Aula 5 - Acompanhamento Sprint 1 (PDF), Frota homogênea (somente VUC), Mixed-Integer Linear Programming (MILP), Restrição de capacidade, Restrição de conservação de fluxo, Restrição de saída do depósito (+5 more)
 
-### Community 3 - "Contexto do Projeto"
-Cohesion: 0.15
-Nodes (16): Distribuicao Fisica (conceito), Problemas de Alocacao/Dimensionamento, Problemas de Localizacao, Problemas de Roteirizacao/Sequenciamento, Vehicle Routing Problem (VRP), Aula 3B — EAP e Cronograma (gestao), Canvas de Projeto, E/Nao E/Faz/Nao Faz (+8 more)
+### Community 8 - "Introducao a CVRP e Bibliografia Geral"
+Cohesion: 0.2
+Nodes (12): Capacitated Vehicle Routing Problem (CVRP), Aula 1 - Introducao da disciplina, Otimizacao Combinatoria, Prof. Marcello Congro, Drezner - Facility Location 1995, Goldbarg - Otimizacao Combinatoria e Metaheuristicas 2015, PMI - PMBOK 2021, Royce 1970 - Modelo Cascata (+4 more)
 
-### Community 4 - "Ferramentas e Dados"
+### Community 9 - "Variantes do VRP (TSP, MDVRP, VRPTW...)"
 Cohesion: 0.18
-Nodes (15): Datasets Exportados (nodes.csv, D.npy, Cvar.npy, Tmov_h.npy, q.npy, s.npy, params.json), Fórmula de Haversine (cálculo de distâncias), Definição Formal de Instância CVRP: I = (N, D, q, K, Q, g, v, s, H), Instâncias C1-C4 (Equipe 2), Matrizes Logísticas: D_ij, c_ij, t_ij, Notebook Aula 2 — Preparação de Dados (Grupo 2), Notebook Aula 2 — Template do Professor, Aula 2 README — Preparação de Dados e Instâncias CVRP (+7 more)
-
-### Community 5 - "Analise de Sensibilidade"
-Cohesion: 0.16
-Nodes (15): CVRP (Capacitated Vehicle Routing Problem), C1_10 atinge otimalidade em todos os limites de tempo, C2_25 atinge gap proximo de 0% a partir de 60s, C3_40 e C4_60 reduzem gap mas nao fecham, Instancia C1_10, Instancia C2_25, Instancia C3_40, Instancia C4_60 (+7 more)
-
-### Community 6 - "Visualizacao de Rotas"
-Cohesion: 0.2
-Nodes (15): CVRP (Capacitated Vehicle Routing Problem), Clientes de Entrega, Deposito (Duque de Caxias), Deposito (Centro de Distribuicao), Frota Heterogenea, Instancia C2 (25 clientes), Modelagem MILP Parte 2, Restricoes MTZ (Miller-Tucker-Zemlin) (+7 more)
-
-### Community 7 - "Metodos de Solucao"
-Cohesion: 0.21
-Nodes (13): 2-opt (busca local), Algoritmos Geneticos (GA), Clarke & Wright (heuristica construtiva), Heuristicas (conceito geral), Iterated Local Search (ILS), Metaheuristicas (SA, ILS, GA), Nearest Neighbor (heuristica construtiva), Problemas NP-dificeis (+5 more)
-
-### Community 8 - "Curso e Referencias"
-Cohesion: 0.2
-Nodes (10): Aula 1 — Introducao e Apresentacao, Goldbarg et al. (2015) — Otimizacao Combinatoria e Metaheuristicas, PMBOK (2021) — Project Management, Toth & Vigo (2014) — Vehicle Routing, Metodologia SCRUM, Product Owner (P.O.), Aula 2A — Sprint Planning #1, Gerenciamento de Tarefas no Trello (+2 more)
-
-### Community 9 - "Entregaveis e Documentacao"
-Cohesion: 0.36
-Nodes (8): 1.5.7 ApresentaÃ§Ã£o Final para Banca, 1.5.2 ApresentaÃ§Ã£o Sprint Review #1, 1.5.4 ApresentaÃ§Ã£o Sprint Review #2, 1.5.6 ApresentaÃ§Ã£o Sprint Review #3, 1.5 DocumentaÃ§Ã£o e ApresentaÃ§Ãµes, 1.5.3 RelatÃ³rio Consolidado G1, 1.5.5 RelatÃ³rio Final, 1.5.1 RelatÃ³rio Parcial #1
-
-### Community 10 - "Mapa de Clientes RJ"
-Cohesion: 0.67
-Nodes (4): Clientes â€” Pontos de Entrega (Hospitais, ClÃ­nicas, FarmÃ¡cias), DepÃ³sito Central â€” Duque de Caxias, Mapa de LocalizaÃ§Ã£o das Entregas no Rio de Janeiro, MunicÃ­pio do Rio de Janeiro
-
-### Community 11 - "Instancia C2 (25 clientes)"
-Cohesion: 0.83
-Nodes (4): Clientes (Pontos de Entrega), Coordenadas GeogrÃ¡ficas (Latitude/Longitude), DepÃ³sito (Ponto de Origem), InstÃ¢ncia C2_25 (25 clientes)
-
-### Community 12 - "Visualizacao Folium"
-Cohesion: 0.5
-Nodes (4): Centro de DistribuiÃ§Ã£o (DepÃ³sito), Pontos de Entrega (Clientes), Folium Map (Biblioteca de VisualizaÃ§Ã£o), Mapa de Pontos de Entrega no Rio de Janeiro (Folium)
-
-### Community 13 - "Instancia C4 (60 clientes)"
-Cohesion: 0.67
-Nodes (4): Clientes (60 pontos de entrega), DepÃ³sito (Centro de DistribuiÃ§Ã£o), InstÃ¢ncia C4_60 â€” Mapa com 60 Clientes e DepÃ³sito, RegiÃ£o GeogrÃ¡fica â€” Rio de Janeiro
-
-### Community 14 - "Rotas de Veiculos"
-Cohesion: 0.83
-Nodes (4): Delivery Nodes (Hospitals/Clinics/Pharmacies) â€” Template, Depot (Duque de Caxias) â€” Template, CVRP Solution Map â€” Rio de Janeiro (Template Professor), Vehicle Routes â€” CVRP Template
-
-### Community 15 - "Diagnostico de Subtours"
-Cohesion: 0.67
-Nodes (4): Rotas ReconstruÃ­das â€” VisualizaÃ§Ã£o de Rotas, DiagnÃ³stico Visual de Subtours, ViolaÃ§Ã£o de Subtour (MTZ/SEC), VisualizaÃ§Ã£o em TrÃªs PainÃ©is do CVRP (Aula 3)
-
-### Community 16 - "MTZ e Frota Heterogenea"
-Cohesion: 0.67
-Nodes (4): InstÃ¢ncia C1_10 (Equipe 2), Frota HeterogÃªnea â€” VisualizaÃ§Ã£o, FormulaÃ§Ã£o MTZ â€” VisualizaÃ§Ã£o de Rotas, Rotas com MTZ + Frota HeterogÃªnea â€” C1_10 (Grupo 2)
-
-### Community 17 - "Matriz de Distancias"
-Cohesion: 0.67
-Nodes (3): NÃ³s de Entrega (clientes + depÃ³sito), Matriz de DistÃ¢ncias D_s, Heatmap de Matriz SimÃ©trica
-
-### Community 18 - "Preparacao de Dados (prof)"
-Cohesion: 1.0
-Nodes (3): Clientes (Pontos de Entrega) â€” Aula 2 Prep, DepÃ³sito (Centro de DistribuiÃ§Ã£o) â€” Aula 2 Prep, Mapa de NÃ³s do Problema â€” PreparaÃ§Ã£o de Dados
-
-### Community 19 - "Preparacao de Dados (alunos)"
-Cohesion: 1.0
-Nodes (3): NÃ³s Clientes (Hospitais, ClÃ­nicas e FarmÃ¡cias) â€” Template, DepÃ³sito (Duque de Caxias) â€” Template, NÃ³s do Problema â€” Clientes e DepÃ³sito (Template Professor)
-
-### Community 20 - "README Aula 3"
-Cohesion: 1.0
-Nodes (1): README Aula 3
+Nodes (11): ENG 4560 - Aula 1 - Introdução e apresentação, Capacitated Vehicle Routing Problem (CVRP), Traveling Salesman Problem (TSP), Vehicle Routing Problem (VRP), Dantzig & Ramser (1959) — The Truck Dispatching Problem, VRP variant: DVRP (demandas dinâmicas/estocásticas), VRP variant: MDVRP (múltiplos depósitos), VRP variant: OVRP (open routes) (+3 more)
 
 ## Knowledge Gaps
-- **52 isolated node(s):** `Matrizes Logísticas: D_ij, c_ij, t_ij`, `Rationale: Uso de Haversine em vez de distâncias viárias reais`, `1.1.1 EAP`, `1.1.2 Canvas de Projeto`, `1.1.3 Cronograma` (+47 more)
+- **119 isolated node(s):** `Rodrigo Pimentel`, `Bernardo Caula`, `Joao Felipe Leal`, `Lucas Campos`, `Lucas Terzi` (+114 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **Thin community `README Aula 3`** (1 nodes): `README Aula 3`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **12 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Projeto Distribuicao Fisica (ENG 4560)` connect `Contexto do Projeto` to `Formulacao MILP`, `Curso e Referencias`, `Metodos de Solucao`?**
-  _High betweenness centrality (0.130) - this node is a cross-community bridge._
-- **Why does `Aula 3 — Modelagem MILP Parte 1 (frota homogenea, sem MTZ)` connect `Formulacao MILP` to `Experimentos e Resultados`, `Ferramentas e Dados`?**
-  _High betweenness centrality (0.064) - this node is a cross-community bridge._
-- **Why does `Notebook Aula 4 — Grupo 2 (MILP Parte 2 + Experimentos)` connect `Experimentos e Resultados` to `Formulacao MILP`, `Contexto do Projeto`, `Ferramentas e Dados`?**
-  _High betweenness centrality (0.061) - this node is a cross-community bridge._
-- **Are the 2 inferred relationships involving `Gurobi (solver MIP comercial)` (e.g. with `CBC (solver MIP open-source)` and `HiGHS (solver MIP)`) actually correct?**
-  _`Gurobi (solver MIP comercial)` has 2 INFERRED edges - model-reasoned connections that need verification._
-- **What connects `Matrizes Logísticas: D_ij, c_ij, t_ij`, `Rationale: Uso de Haversine em vez de distâncias viárias reais`, `1.1.1 EAP` to the rest of the system?**
-  _52 weakly-connected nodes found - possible documentation gaps or missing edges._
-- **Should `Formulacao MILP` be split into smaller, more focused modules?**
-  _Cohesion score 0.12 - nodes in this community are weakly interconnected._
+- **Why does `Base de Dados (Prolog)` connect `Preparacao de Dados (Matrizes e Atributos)` to `Instancias C1-C4 e Solvers`, `Metodos de Otimizacao e Gestao SCRUM`?**
+  _High betweenness centrality (0.080) - this node is a cross-community bridge._
+- **Why does `Aula 4 — Modelagem matemática do CVRP (Parte 2) [Notebook Grupo 2]` connect `Modelagem MILP Parte 2 (Heterogenea)` to `Variantes do VRP (TSP, MDVRP, VRPTW...)`, `Fundamentacao Teorica e Sprint Review 1`?**
+  _High betweenness centrality (0.070) - this node is a cross-community bridge._
+- **What connects `Rodrigo Pimentel`, `Bernardo Caula`, `Joao Felipe Leal` to the rest of the system?**
+  _119 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **Should `Instancias C1-C4 e Solvers` be split into smaller, more focused modules?**
+  _Cohesion score 0.08 - nodes in this community are weakly interconnected._
+- **Should `Modelagem MILP Parte 2 (Heterogenea)` be split into smaller, more focused modules?**
+  _Cohesion score 0.11 - nodes in this community are weakly interconnected._
+- **Should `EAP e Entregaveis do Projeto` be split into smaller, more focused modules?**
+  _Cohesion score 0.07 - nodes in this community are weakly interconnected._
+- **Should `Metodos de Otimizacao e Gestao SCRUM` be split into smaller, more focused modules?**
+  _Cohesion score 0.09 - nodes in this community are weakly interconnected._

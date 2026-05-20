@@ -18,6 +18,10 @@
 
 Modelos de Arquivos/
 
+# Imagens de output dos notebooks (plots, tabelas renderizadas — ja descritas no .md adjacente)
+
+**/images/
+
 # Caches e outputs
 
 graphify-out/

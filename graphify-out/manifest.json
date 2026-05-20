@@ -1,43 +1,138 @@
 {
-  "graphify-out\\converted\\Base de Dados_9e84c929.md": 1776304089.3383524,
-  "CLAUDE.md": 1776119217.4044213,
-  "graphify-out\\converted\\Cronograma_bc2cdaac.md": 1776304089.386063,
-  "Aulas\\1\\ENG 4560 - Aula 1 - Introdu\u00e7\u00e3o e apresenta\u00e7\u00e3o.md": 1776024805.8515894,
-  "Aulas\\2\\ENG 4560 - Aula 2A - Sprint Planning 1 e Trello.md": 1776015799.830514,
-  "Aulas\\2\\README.md": 1774528115.4526157,
-  "Aulas\\2\\Aula2_Preparacao_Dados\\notebook.md": 1776035881.5953548,
-  "Aulas\\2\\ENG 4560 - Aula 2 - Alunos\\notebook.md": 1776035890.093688,
-  "Aulas\\3\\ENG 4010 - Aula 3B - EAP e Cronograma - 2026_1.md": 1776018408.76484,
-  "Aulas\\3\\ENG 4560 - Aula 3 - Modelagem matem\u00e1tica (Parte 1).md": 1776021184.0144682,
-  "Aulas\\3\\README.md": 1776119147.9810278,
-  "Aulas\\3\\Aula3_Modelagem_MILP\\notebook.md": 1776035907.0425432,
-  "Aulas\\3\\ENG_4560_Aula_3_Modelagem_matem\u00e1tica_(Parte_1)_Alunos_2026_1\\notebook.md": 1776035895.2340386,
-  "Aulas\\4\\ENG 4010 - Aula 4B - Canvas e \u00c9N\u00e3o\u00c9.md": 1776017616.2427907,
-  "Aulas\\4\\ENG 4560 - Aula 4 - Modelagem matem\u00e1tica (Parte 2).md": 1776019511.3102956,
-  "Aulas\\4\\README.md": 1776119187.3643215,
-  "Aulas\\4\\Aula4_Modelagem_MILP_Parte2\\notebook.md": 1776119276.36668,
-  "Aulas\\4\\ENG_4560_Aula_4_Modelagem_matem\u00e1tica_(Parte_2)_Alunos\\notebook.md": 1776304049.084309,
-  "Aulas\\5\\ENG 4560 - Aula 5 - Acompanhamento Sprint 1.md": 1776014939.9323692,
-  "Aulas\\5\\README.md": 1776119199.852628,
-  "Aulas\\1\\ENG 4560 - Aula 1 - Introdu\u00e7\u00e3o e apresenta\u00e7\u00e3o.pdf": 1773922197.877394,
-  "Aulas\\2\\ENG 4560 - Aula 2A - Sprint Planning 1 e Trello.pdf": 1773922189.9736085,
-  "Aulas\\3\\ENG 4010 - Aula 3B - EAP e Cronograma - 2026_1.pdf": 1773953820.9137292,
-  "Aulas\\3\\ENG 4560 - Aula 3 - Modelagem matem\u00e1tica (Parte 1).pdf": 1773922178.1305163,
-  "Aulas\\4\\ENG 4010 - Aula 4B - Canvas e \u00c9N\u00e3o\u00c9.pdf": 1774527795.961438,
-  "Aulas\\4\\ENG 4560 - Aula 4 - Modelagem matem\u00e1tica (Parte 2).pdf": 1774527805.3267918,
-  "Aulas\\5\\ENG 4560 - Aula 5 - Acompanhamento Sprint 1.pdf": 1776012149.0367072,
-  "EAP.jpg": 1776013282.576544,
-  "Aulas\\2\\Aula2_Preparacao_Dados\\images\\notebook_12_0.png": 1776035881.2115395,
-  "Aulas\\2\\Aula2_Preparacao_Dados\\images\\notebook_18_0.png": 1776035881.2145755,
-  "Aulas\\2\\Aula2_Preparacao_Dados\\images\\notebook_18_1.png": 1776035881.2186162,
-  "Aulas\\2\\Aula2_Preparacao_Dados\\images\\notebook_18_2.png": 1776035881.220635,
-  "Aulas\\2\\Aula2_Preparacao_Dados\\images\\notebook_18_3.png": 1776035881.2266853,
-  "Aulas\\2\\Aula2_Preparacao_Dados\\images\\notebook_9_0.png": 1776035881.2075033,
-  "Aulas\\2\\ENG 4560 - Aula 2 - Alunos\\images\\notebook_12_0.png": 1776035889.974223,
-  "Aulas\\2\\ENG 4560 - Aula 2 - Alunos\\images\\notebook_9_0.png": 1776035889.974223,
-  "Aulas\\3\\Aula3_Modelagem_MILP\\images\\notebook_19_0.png": 1776035906.6500008,
-  "Aulas\\4\\Aula4_Modelagem_MILP_Parte2\\images\\notebook_18_0.png": 1776119269.714582,
-  "Aulas\\4\\Aula4_Modelagem_MILP_Parte2\\images\\notebook_29_0.png": 1776119269.714582,
-  "Aulas\\4\\Aula4_Modelagem_MILP_Parte2\\images\\notebook_32_0.png": 1776119269.716452,
-  "Aulas\\4\\ENG_4560_Aula_4_Modelagem_matem\u00e1tica_(Parte_2)_Alunos\\images\\notebook_23_0.png": 1776035920.1635227
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\graphify-out\\converted\\Base de Dados_9e84c929.md": {
+    "mtime": 1779287307.9248111,
+    "hash": "5aacf1cec263d242dd7c6ad31b4be561"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\CLAUDE.md": {
+    "mtime": 1776549773.0,
+    "hash": "3c447687627fdc98bb2a7ee012c59172"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\graphify-out\\converted\\Cronograma_bc2cdaac.md": {
+    "mtime": 1779287307.988261,
+    "hash": "2e9f1806838b93f027b567e1563c6b33"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\1\\ENG 4560 - Aula 1 - Introdu\u00e7\u00e3o e apresenta\u00e7\u00e3o.md": {
+    "mtime": 1776024805.0,
+    "hash": "8ae77f2cc9ace69bdda9a1d52ff7abb2"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\ENG 4560 - Aula 2A - Sprint Planning 1 e Trello.md": {
+    "mtime": 1776015799.0,
+    "hash": "b1a0ba3b1bf933ac4b185cd21170920a"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\README.md": {
+    "mtime": 1774528115.0,
+    "hash": "9057eb7b9de5f3d22d2800a2bcd33f66"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\Aula2_Preparacao_Dados\\notebook.md": {
+    "mtime": 1776035881.0,
+    "hash": "e411a597fa3f74f27c18e4b43219a769"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\ENG 4560 - Aula 2 - Alunos\\notebook.md": {
+    "mtime": 1776035890.0,
+    "hash": "98ffae698bc35468311f8ddf670c4273"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\ENG 4010 - Aula 3B - EAP e Cronograma - 2026_1.md": {
+    "mtime": 1776018408.0,
+    "hash": "d8cb7c71e7e6df83ac929f709652fdfc"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\ENG 4560 - Aula 3 - Modelagem matem\u00e1tica (Parte 1).md": {
+    "mtime": 1776021184.0,
+    "hash": "dad34af3bf858e38aea7856abfe13576"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\README.md": {
+    "mtime": 1776119147.0,
+    "hash": "d1757224bbd16e054ac1cc1b4351cd98"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\Aula3_Modelagem_MILP\\notebook.md": {
+    "mtime": 1776035907.0,
+    "hash": "6fe87bf07a0c4f74c300f8465aacb70d"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\ENG_4560_Aula_3_Modelagem_matem\u00e1tica_(Parte_1)_Alunos_2026_1\\notebook.md": {
+    "mtime": 1776035895.0,
+    "hash": "9588dfa88d712fb748ff31f28753e06a"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\ENG 4010 - Aula 4B - Canvas e \u00c9N\u00e3o\u00c9.md": {
+    "mtime": 1776017616.0,
+    "hash": "101b5e3b507d422e57d9ecb077807c23"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\ENG 4560 - Aula 4 - Modelagem matem\u00e1tica (Parte 2).md": {
+    "mtime": 1776019511.0,
+    "hash": "4b13f29950d7e0c4d292a95c7bdba5ec"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\README.md": {
+    "mtime": 1776119187.0,
+    "hash": "6b4ad253879020c991993ac8bda5c33b"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\Aula4_Modelagem_MILP_Parte2\\notebook.md": {
+    "mtime": 1776119276.0,
+    "hash": "74063d28b2b01e40f4443acdf4fc2ffa"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\ENG_4560_Aula_4_Modelagem_matem\u00e1tica_(Parte_2)_Alunos\\notebook.md": {
+    "mtime": 1776304049.0,
+    "hash": "d3a27dbfe3612966e45cbe5e98fa84c5"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\5\\APRESENTACAO.md": {
+    "mtime": 1776306943.0,
+    "hash": "4d73d51a076d069b6dec8a0fb09c5acb"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\5\\ENG 4560 - Aula 5 - Acompanhamento Sprint 1.md": {
+    "mtime": 1776014939.0,
+    "hash": "07430fcc7f071107ef6eafeb53664e28"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\5\\FUNDAMENTACAO.md": {
+    "mtime": 1776306060.0,
+    "hash": "5af8a7b55a59cd5fdb908f16d7eaa86f"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\5\\PESQUISA.md": {
+    "mtime": 1776305610.0,
+    "hash": "60e01d5133cc4cd80fa3aaf7cd8a01ac"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\5\\README.md": {
+    "mtime": 1776119199.0,
+    "hash": "70d0dec2d054677dd67ac6ec5acd35c6"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\1\\ENG 4560 - Aula 1 - Introdu\u00e7\u00e3o e apresenta\u00e7\u00e3o.pdf": {
+    "mtime": 1773922197.0,
+    "hash": "886e60473d0ed23ec1c9e1455f8a44ba"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\ENG 4560 - Aula 2A - Sprint Planning 1 e Trello.pdf": {
+    "mtime": 1773922189.0,
+    "hash": "46da264c7e9cf8b37bac5b55d61ed732"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\ENG 4010 - Aula 3B - EAP e Cronograma - 2026_1.pdf": {
+    "mtime": 1773953820.0,
+    "hash": "716cebb2bf0831f9e93dd0b3229c1ac3"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\ENG 4560 - Aula 3 - Modelagem matem\u00e1tica (Parte 1).pdf": {
+    "mtime": 1773922178.0,
+    "hash": "b45a0fee383200c570b104d430afc999"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\ENG 4010 - Aula 4B - Canvas e \u00c9N\u00e3o\u00c9.pdf": {
+    "mtime": 1774527795.0,
+    "hash": "1304338a4e93b4dd95f378837050f2c6"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\ENG 4560 - Aula 4 - Modelagem matem\u00e1tica (Parte 2).pdf": {
+    "mtime": 1774527805.0,
+    "hash": "12382f706c2b66ed2897183d4b61a29d"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\5\\ENG 4560 - Aula 5 - Acompanhamento Sprint 1.pdf": {
+    "mtime": 1776012149.0,
+    "hash": "d287158350ed90b8b88164fe541904a3"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\ENG 4560 - Aula 7A - Sprint Planning 2.pdf": {
+    "mtime": 1779202343.491179,
+    "hash": "d2aafb3ba4beaa55a5619a3139c57c05"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\ENG 4560 - Aula 7B - Heur\u00edsticas construtivas.pdf": {
+    "mtime": 1779202350.4497826,
+    "hash": "09274b96d1b3adf570a1f2081ca4b795"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\8\\ENG 4560 - Aula 8 - Heur\u00edsticas de busca local.pdf": {
+    "mtime": 1779202414.679603,
+    "hash": "621c222887380c34524337a3038f90d7"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\EAP.jpg": {
+    "mtime": 1776013282.0,
+    "hash": "89e89edc283458bfaa6801bdd5a9ca5c"
+  }
 }
