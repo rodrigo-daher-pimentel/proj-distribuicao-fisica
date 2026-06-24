@@ -5,3 +5,9 @@ __pycache__/
 venv/
 .env
 .DS_Store
+
+# Artefatos de runtime / locais - nao versionar
+.claude/*.log
+.jupyter/
+.jupyter_ystore.db
+.graphify_python
