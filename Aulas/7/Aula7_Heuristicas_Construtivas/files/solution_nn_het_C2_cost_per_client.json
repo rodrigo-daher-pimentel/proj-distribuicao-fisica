@@ -1,0 +1,99 @@
+{
+  "heuristic": "NN",
+  "instance": "C2",
+  "criterion": "cost_per_client",
+  "solution": [
+    {
+      "route_id": 1,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        20,
+        5,
+        11,
+        2,
+        18,
+        3,
+        9,
+        4,
+        10,
+        19,
+        25,
+        14,
+        22,
+        13,
+        17,
+        7,
+        1,
+        6,
+        23,
+        0
+      ],
+      "served_clients": [
+        20,
+        5,
+        11,
+        2,
+        18,
+        3,
+        9,
+        4,
+        10,
+        19,
+        25,
+        14,
+        22,
+        13,
+        17,
+        7,
+        1,
+        6,
+        23
+      ],
+      "n_clients": 19,
+      "load": 433.8720000000001,
+      "distance_km": 110.0021924261014,
+      "total_cost_rs": 415.0032886391521,
+      "cost_per_client_rs": 21.84227834942906,
+      "total_time_h": 7.500054810652535
+    },
+    {
+      "route_id": 2,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        16,
+        21,
+        8,
+        12,
+        15,
+        24,
+        0
+      ],
+      "served_clients": [
+        16,
+        21,
+        8,
+        12,
+        15,
+        24
+      ],
+      "n_clients": 6,
+      "load": 320.609,
+      "distance_km": 90.72060495444927,
+      "total_cost_rs": 386.0809074316739,
+      "cost_per_client_rs": 64.34681790527898,
+      "total_time_h": 3.7680151238612316
+    }
+  ],
+  "metrics": {
+    "n_routes": 2,
+    "n_fio": 2,
+    "n_vuc": 0,
+    "total_distance_km": 200.72279738055067,
+    "total_cost_rs": 801.084196070826,
+    "total_time_h": 11.268069934513766,
+    "routes_violating_H": 0
+  },
+  "elapsed_s": 0.0024161338806152344
+}

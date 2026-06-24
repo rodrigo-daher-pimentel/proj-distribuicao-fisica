@@ -1,0 +1,53 @@
+{
+  "heuristic": "CW",
+  "instance": "C1",
+  "criterion": "cost_per_client",
+  "solution": [
+    {
+      "route_id": 1,
+      "route": [
+        0,
+        5,
+        7,
+        1,
+        10,
+        6,
+        4,
+        9,
+        3,
+        8,
+        2,
+        0
+      ],
+      "vehicle": "FIO",
+      "served_clients": [
+        5,
+        7,
+        1,
+        10,
+        6,
+        4,
+        9,
+        3,
+        8,
+        2
+      ],
+      "n_clients": 10,
+      "load": 141.56,
+      "distance_km": 115.75237263462932,
+      "total_time_h": 5.393809315865733,
+      "total_cost_rs": 423.628558951944,
+      "cost_per_client_rs": 42.3628558951944
+    }
+  ],
+  "metrics": {
+    "n_routes": 1,
+    "n_fio": 1,
+    "n_vuc": 0,
+    "total_distance_km": 115.75237263462932,
+    "total_cost_rs": 423.628558951944,
+    "total_time_h": 5.393809315865733,
+    "routes_violating_H": 0
+  },
+  "elapsed_s": 0.0005774497985839844
+}
