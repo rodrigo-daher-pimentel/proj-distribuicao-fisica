@@ -1,0 +1,25 @@
+{
+    "DEPOT_CEP": "25251560",
+    "VEHICLES": {
+        "FIO": {
+            "label": "Fiorino",
+            "Q_kg": 650.0,
+            "fixed_cost": 250.0
+        },
+        "VUC": {
+            "label": "VUC",
+            "Q_kg": 3000.0,
+            "fixed_cost": 550.0
+        }
+    },
+    "g_R$/km": 1.5,
+    "v_kmh": 40.0,
+    "s_min": 15.0,
+    "s_horas": 0.25,
+    "H_horas": 8.0,
+    "enforce_fleet_limits": false,
+    "max_fio": 3,
+    "max_vuc": 1,
+    "instance_type": "secret_ILS_competition",
+    "instance_name": "COMP_ILS_SECRET_20_seed555"
+}

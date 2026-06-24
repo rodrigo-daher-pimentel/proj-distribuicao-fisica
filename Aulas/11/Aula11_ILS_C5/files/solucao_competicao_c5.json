@@ -1,0 +1,71 @@
+{
+  "equipe": "Equipe 2 (Grupo 2)",
+  "tarefa": "Tarefa 12 - desafio aberto C5",
+  "instance": "C5 (COMP_ILS_SECRET_20_seed555)",
+  "heuristic_initial": "NN",
+  "perturbation_type": "relocate_random",
+  "perturbation_k": 3,
+  "accept_criterion": "strict",
+  "tolerance_pct": 0.0,
+  "use_2opt": true,
+  "use_relocate": true,
+  "use_swap": true,
+  "n_iterations": 300,
+  "seed": 42,
+  "best_cost_rs": 609.9,
+  "n_routes": 2,
+  "n_fio": 2,
+  "n_vuc": 0,
+  "distance_km": 73.27,
+  "solution": [
+    {
+      "route_id": 1,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        20,
+        7,
+        1,
+        5,
+        10,
+        9,
+        17,
+        4,
+        15,
+        19,
+        12,
+        3,
+        18,
+        11,
+        16,
+        8,
+        2,
+        0
+      ]
+    },
+    {
+      "route_id": 2,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        13,
+        14,
+        6,
+        0
+      ]
+    }
+  ],
+  "metrics": {
+    "n_routes": 2,
+    "n_fio": 2,
+    "n_vuc": 0,
+    "total_distance_km": 73.27,
+    "total_cost_rs": 609.9,
+    "total_time_h": 6.83,
+    "capacity_violations": 0,
+    "time_violations": 0
+  },
+  "elapsed_sec": 3.454,
+  "iter_best": 207,
+  "estrategia": "30 execucoes de ILS (3 configs x 5 seeds x 2 trilhas) com Swap habilitado, 300 iteracoes por execucao. Configuracao vencedora: NN+P1k3+seed42. Justificativa: a topologia compacta da C5 com demanda total 10% acima do Fiorino favorece perturbacoes intensivas de relocate sobre a double-bridge."
+}

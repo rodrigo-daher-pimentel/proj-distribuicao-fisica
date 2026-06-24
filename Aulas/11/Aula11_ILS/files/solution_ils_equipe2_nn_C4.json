@@ -1,0 +1,120 @@
+{
+  "equipe": "Equipe 2 (Grupo 2)",
+  "heuristic_initial": "NN",
+  "instance": "C4",
+  "perturbation_type": "double_bridge",
+  "accept_criterion": "strict",
+  "tolerance_pct": 0.0,
+  "use_2opt": true,
+  "use_relocate": true,
+  "use_swap": false,
+  "n_iterations": 100,
+  "seed": 42,
+  "solution": [
+    {
+      "route_id": 1,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        20,
+        5,
+        60,
+        13,
+        22,
+        41,
+        54,
+        14,
+        25,
+        38,
+        30,
+        19,
+        40,
+        44,
+        47,
+        6,
+        34,
+        49,
+        10,
+        26,
+        4,
+        50,
+        59,
+        0
+      ]
+    },
+    {
+      "route_id": 2,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        56,
+        52,
+        18,
+        33,
+        36,
+        31,
+        9,
+        39,
+        3,
+        0
+      ]
+    },
+    {
+      "route_id": 3,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        57,
+        28,
+        43,
+        42,
+        17,
+        7,
+        1,
+        37,
+        55,
+        53,
+        27,
+        35,
+        0
+      ]
+    },
+    {
+      "route_id": 4,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        23,
+        45,
+        48,
+        15,
+        24,
+        46,
+        51,
+        58,
+        12,
+        8,
+        21,
+        16,
+        32,
+        2,
+        29,
+        11,
+        0
+      ]
+    }
+  ],
+  "metrics": {
+    "n_routes": 4,
+    "n_fio": 4,
+    "n_vuc": 0,
+    "total_distance_km": 256.43,
+    "total_cost_rs": 1384.65,
+    "total_time_h": 21.41,
+    "capacity_violations": 0,
+    "time_violations": 0
+  },
+  "elapsed_sec": 15.061,
+  "iter_best": 91,
+  "n_melhorias": 4
+}
