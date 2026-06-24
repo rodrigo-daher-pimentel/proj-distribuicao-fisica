@@ -1,0 +1,42 @@
+{
+  "equipe": "Equipe 2 (Grupo 2)",
+  "heuristic_initial": "NN",
+  "instance": "C1",
+  "perturbation_type": "double_bridge",
+  "accept_criterion": "strict",
+  "perturbation_k": 2,
+  "n_iterations": 80,
+  "seed": 42,
+  "solution": [
+    {
+      "route_id": 1,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        5,
+        7,
+        1,
+        6,
+        10,
+        4,
+        9,
+        3,
+        8,
+        2,
+        0
+      ]
+    }
+  ],
+  "metrics": {
+    "n_routes": 1,
+    "n_fio": 1,
+    "n_vuc": 0,
+    "total_distance_km": 114.92105826304167,
+    "total_time_h": 5.373026456576042,
+    "total_cost_rs": 422.38158739456253,
+    "feasible": true
+  },
+  "custo_baseline": 422.38158739456253,
+  "custo_ils": 422.38158739456253,
+  "elapsed_sec": 0.15470051765441895
+}
