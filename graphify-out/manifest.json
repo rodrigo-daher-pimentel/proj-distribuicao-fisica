@@ -1,138 +1,357 @@
 {
-  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\graphify-out\\converted\\Base de Dados_9e84c929.md": {
-    "mtime": 1779287307.9248111,
-    "hash": "5aacf1cec263d242dd7c6ad31b4be561"
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\notebook.md": {
+    "mtime": 1781785706.9823,
+    "ast_hash": "ef9d07443d30a73d58b1959857cf3943",
+    "semantic_hash": "ef9d07443d30a73d58b1959857cf3943"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\README.md": {
+    "mtime": 1781785806.6359942,
+    "ast_hash": "12d19b7ad4ec956141f47e226207225c",
+    "semantic_hash": "12d19b7ad4ec956141f47e226207225c"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\8\\Aula8_Busca_Local\\notebook.md": {
+    "mtime": 1781785707.297196,
+    "ast_hash": "624a3db152750affc267480f7a51228f",
+    "semantic_hash": "624a3db152750affc267480f7a51228f"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\8\\Aula8_Busca_Local\\README.md": {
+    "mtime": 1781785773.2450745,
+    "ast_hash": "0118bc15306232aff3b98961467d1696",
+    "semantic_hash": "0118bc15306232aff3b98961467d1696"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\.graphify_incremental.json": {
+    "mtime": 1779974557.472648,
+    "ast_hash": "0d3da44a7278f0f6f600a1f6b4706922",
+    "semantic_hash": "0d3da44a7278f0f6f600a1f6b4706922"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\.jupyter\\collaboration_sessions.json": {
+    "mtime": 1781785580.4156346,
+    "ast_hash": "1d293f138092341fd0bc6141d0e834fc",
+    "semantic_hash": "1d293f138092341fd0bc6141d0e834fc"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\datasets\\Equipe_2_C1_10\\params.json": {
+    "mtime": 1773971525.0,
+    "ast_hash": "8cd309ee924db61a441244eea7e1d021",
+    "semantic_hash": "8cd309ee924db61a441244eea7e1d021"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\datasets\\Equipe_2_C2_25\\params.json": {
+    "mtime": 1773971525.0,
+    "ast_hash": "8cd309ee924db61a441244eea7e1d021",
+    "semantic_hash": "8cd309ee924db61a441244eea7e1d021"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\datasets\\Equipe_2_C3_40\\params.json": {
+    "mtime": 1773971525.0,
+    "ast_hash": "8cd309ee924db61a441244eea7e1d021",
+    "semantic_hash": "8cd309ee924db61a441244eea7e1d021"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\datasets\\Equipe_2_C4_60\\params.json": {
+    "mtime": 1773971525.0,
+    "ast_hash": "8cd309ee924db61a441244eea7e1d021",
+    "semantic_hash": "8cd309ee924db61a441244eea7e1d021"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_cw_het_C1_cost_per_client.json": {
+    "mtime": 1779551669.2762246,
+    "ast_hash": "dae96a4244e6309158776ad42e17d747",
+    "semantic_hash": "dae96a4244e6309158776ad42e17d747"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_cw_het_C1_total_cost.json": {
+    "mtime": 1779551669.2762246,
+    "ast_hash": "b5cba570ff585e9ce63413053f3e05e1",
+    "semantic_hash": "b5cba570ff585e9ce63413053f3e05e1"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_cw_het_C2_cost_per_client.json": {
+    "mtime": 1779551669.2782345,
+    "ast_hash": "3ea43f9f1d479622a9ad2ff6cd510749",
+    "semantic_hash": "3ea43f9f1d479622a9ad2ff6cd510749"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_cw_het_C2_total_cost.json": {
+    "mtime": 1779551669.2762246,
+    "ast_hash": "f112da9b9842750ffcb1b464c5e864d1",
+    "semantic_hash": "f112da9b9842750ffcb1b464c5e864d1"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_cw_het_C3_cost_per_client.json": {
+    "mtime": 1779551669.2782345,
+    "ast_hash": "6f47d2ecfb93f7a6933cc19c263572c8",
+    "semantic_hash": "6f47d2ecfb93f7a6933cc19c263572c8"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_cw_het_C3_total_cost.json": {
+    "mtime": 1779551669.2782345,
+    "ast_hash": "04049fc00247fcc88aa95a37e02408b9",
+    "semantic_hash": "04049fc00247fcc88aa95a37e02408b9"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_cw_het_C4_cost_per_client.json": {
+    "mtime": 1779551669.2823694,
+    "ast_hash": "dd0e72e47236c8005b05dfbec069dc38",
+    "semantic_hash": "dd0e72e47236c8005b05dfbec069dc38"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_cw_het_C4_total_cost.json": {
+    "mtime": 1779551669.2813478,
+    "ast_hash": "2cf58bd689e391b412041fc15d1b6f4a",
+    "semantic_hash": "2cf58bd689e391b412041fc15d1b6f4a"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_nn_het_C1_cost_per_client.json": {
+    "mtime": 1779551669.263198,
+    "ast_hash": "013bdfe5616c76b7dced002a40be4573",
+    "semantic_hash": "013bdfe5616c76b7dced002a40be4573"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_nn_het_C1_total_cost.json": {
+    "mtime": 1779551669.263198,
+    "ast_hash": "4444a0ae704d1565ac59ebc224eaf2a4",
+    "semantic_hash": "4444a0ae704d1565ac59ebc224eaf2a4"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_nn_het_C2_cost_per_client.json": {
+    "mtime": 1779551669.263198,
+    "ast_hash": "bcfd1c46998965ae22fd618272224be5",
+    "semantic_hash": "bcfd1c46998965ae22fd618272224be5"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_nn_het_C2_total_cost.json": {
+    "mtime": 1779551669.263198,
+    "ast_hash": "866bb3babee7e6e82ea45ed132896f63",
+    "semantic_hash": "866bb3babee7e6e82ea45ed132896f63"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_nn_het_C3_cost_per_client.json": {
+    "mtime": 1779551669.2742066,
+    "ast_hash": "a49c8d01b34d59b3af340e062000283f",
+    "semantic_hash": "a49c8d01b34d59b3af340e062000283f"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_nn_het_C3_total_cost.json": {
+    "mtime": 1779551669.263198,
+    "ast_hash": "1fb259d7795c7508e9007e0d73919e24",
+    "semantic_hash": "1fb259d7795c7508e9007e0d73919e24"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_nn_het_C4_cost_per_client.json": {
+    "mtime": 1779551669.2742066,
+    "ast_hash": "208c7340c1798179c4d5f769b32ffcfb",
+    "semantic_hash": "208c7340c1798179c4d5f769b32ffcfb"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\Aula7_Heuristicas_Construtivas\\files\\solution_nn_het_C4_total_cost.json": {
+    "mtime": 1779551669.2742066,
+    "ast_hash": "f57d014d84f90a1a56b6d411bb8da89e",
+    "semantic_hash": "f57d014d84f90a1a56b6d411bb8da89e"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\8\\Aula8_Busca_Local\\files\\solution_busca_local_cw_C1.json": {
+    "mtime": 1781785126.3735125,
+    "ast_hash": "0bd835a08db857fe39e7a6c8fea76297",
+    "semantic_hash": "0bd835a08db857fe39e7a6c8fea76297"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\8\\Aula8_Busca_Local\\files\\solution_busca_local_cw_C2.json": {
+    "mtime": 1781785126.3735125,
+    "ast_hash": "27f686f1d6d2e360c2a2b213240dd161",
+    "semantic_hash": "27f686f1d6d2e360c2a2b213240dd161"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\8\\Aula8_Busca_Local\\files\\solution_busca_local_cw_C3.json": {
+    "mtime": 1781785126.377036,
+    "ast_hash": "c8ad6004f677c810adbef7378c99a38c",
+    "semantic_hash": "c8ad6004f677c810adbef7378c99a38c"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\8\\Aula8_Busca_Local\\files\\solution_busca_local_cw_C4.json": {
+    "mtime": 1781785126.377036,
+    "ast_hash": "b22e5f692a0e53a46ff63284e69eac5a",
+    "semantic_hash": "b22e5f692a0e53a46ff63284e69eac5a"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\8\\Aula8_Busca_Local\\files\\solution_busca_local_nn_C1.json": {
+    "mtime": 1781785126.3735125,
+    "ast_hash": "3c32e4b42cd65e2df21c3ce0daddc2b2",
+    "semantic_hash": "3c32e4b42cd65e2df21c3ce0daddc2b2"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\8\\Aula8_Busca_Local\\files\\solution_busca_local_nn_C2.json": {
+    "mtime": 1781785126.3735125,
+    "ast_hash": "313d14be13cb747efd582144e97d0e49",
+    "semantic_hash": "313d14be13cb747efd582144e97d0e49"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\8\\Aula8_Busca_Local\\files\\solution_busca_local_nn_C3.json": {
+    "mtime": 1781785126.3735125,
+    "ast_hash": "3db659e62796a867a10338de9964bab5",
+    "semantic_hash": "3db659e62796a867a10338de9964bab5"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\8\\Aula8_Busca_Local\\files\\solution_busca_local_nn_C4.json": {
+    "mtime": 1781785126.3735125,
+    "ast_hash": "3163c033a43e5f7473bbb2c706ddb7d8",
+    "semantic_hash": "3163c033a43e5f7473bbb2c706ddb7d8"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\CLAUDE.md": {
     "mtime": 1776549773.0,
-    "hash": "3c447687627fdc98bb2a7ee012c59172"
-  },
-  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\graphify-out\\converted\\Cronograma_bc2cdaac.md": {
-    "mtime": 1779287307.988261,
-    "hash": "2e9f1806838b93f027b567e1563c6b33"
+    "ast_hash": "3c447687627fdc98bb2a7ee012c59172",
+    "semantic_hash": "3c447687627fdc98bb2a7ee012c59172"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\1\\ENG 4560 - Aula 1 - Introdu\u00e7\u00e3o e apresenta\u00e7\u00e3o.md": {
     "mtime": 1776024805.0,
-    "hash": "8ae77f2cc9ace69bdda9a1d52ff7abb2"
+    "ast_hash": "8ae77f2cc9ace69bdda9a1d52ff7abb2",
+    "semantic_hash": "8ae77f2cc9ace69bdda9a1d52ff7abb2"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\ENG 4560 - Aula 2A - Sprint Planning 1 e Trello.md": {
     "mtime": 1776015799.0,
-    "hash": "b1a0ba3b1bf933ac4b185cd21170920a"
+    "ast_hash": "b1a0ba3b1bf933ac4b185cd21170920a",
+    "semantic_hash": "b1a0ba3b1bf933ac4b185cd21170920a"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\README.md": {
     "mtime": 1774528115.0,
-    "hash": "9057eb7b9de5f3d22d2800a2bcd33f66"
+    "ast_hash": "9057eb7b9de5f3d22d2800a2bcd33f66",
+    "semantic_hash": "9057eb7b9de5f3d22d2800a2bcd33f66"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\Aula2_Preparacao_Dados\\notebook.md": {
     "mtime": 1776035881.0,
-    "hash": "e411a597fa3f74f27c18e4b43219a769"
+    "ast_hash": "e411a597fa3f74f27c18e4b43219a769",
+    "semantic_hash": "e411a597fa3f74f27c18e4b43219a769"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\ENG 4560 - Aula 2 - Alunos\\notebook.md": {
     "mtime": 1776035890.0,
-    "hash": "98ffae698bc35468311f8ddf670c4273"
+    "ast_hash": "98ffae698bc35468311f8ddf670c4273",
+    "semantic_hash": "98ffae698bc35468311f8ddf670c4273"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\ENG 4010 - Aula 3B - EAP e Cronograma - 2026_1.md": {
     "mtime": 1776018408.0,
-    "hash": "d8cb7c71e7e6df83ac929f709652fdfc"
+    "ast_hash": "d8cb7c71e7e6df83ac929f709652fdfc",
+    "semantic_hash": "d8cb7c71e7e6df83ac929f709652fdfc"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\ENG 4560 - Aula 3 - Modelagem matem\u00e1tica (Parte 1).md": {
     "mtime": 1776021184.0,
-    "hash": "dad34af3bf858e38aea7856abfe13576"
+    "ast_hash": "dad34af3bf858e38aea7856abfe13576",
+    "semantic_hash": "dad34af3bf858e38aea7856abfe13576"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\README.md": {
     "mtime": 1776119147.0,
-    "hash": "d1757224bbd16e054ac1cc1b4351cd98"
+    "ast_hash": "d1757224bbd16e054ac1cc1b4351cd98",
+    "semantic_hash": "d1757224bbd16e054ac1cc1b4351cd98"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\Aula3_Modelagem_MILP\\notebook.md": {
     "mtime": 1776035907.0,
-    "hash": "6fe87bf07a0c4f74c300f8465aacb70d"
+    "ast_hash": "6fe87bf07a0c4f74c300f8465aacb70d",
+    "semantic_hash": "6fe87bf07a0c4f74c300f8465aacb70d"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\ENG_4560_Aula_3_Modelagem_matem\u00e1tica_(Parte_1)_Alunos_2026_1\\notebook.md": {
     "mtime": 1776035895.0,
-    "hash": "9588dfa88d712fb748ff31f28753e06a"
+    "ast_hash": "9588dfa88d712fb748ff31f28753e06a",
+    "semantic_hash": "9588dfa88d712fb748ff31f28753e06a"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\ENG 4010 - Aula 4B - Canvas e \u00c9N\u00e3o\u00c9.md": {
     "mtime": 1776017616.0,
-    "hash": "101b5e3b507d422e57d9ecb077807c23"
+    "ast_hash": "101b5e3b507d422e57d9ecb077807c23",
+    "semantic_hash": "101b5e3b507d422e57d9ecb077807c23"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\ENG 4560 - Aula 4 - Modelagem matem\u00e1tica (Parte 2).md": {
     "mtime": 1776019511.0,
-    "hash": "4b13f29950d7e0c4d292a95c7bdba5ec"
+    "ast_hash": "4b13f29950d7e0c4d292a95c7bdba5ec",
+    "semantic_hash": "4b13f29950d7e0c4d292a95c7bdba5ec"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\README.md": {
     "mtime": 1776119187.0,
-    "hash": "6b4ad253879020c991993ac8bda5c33b"
+    "ast_hash": "6b4ad253879020c991993ac8bda5c33b",
+    "semantic_hash": "6b4ad253879020c991993ac8bda5c33b"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\Aula4_Modelagem_MILP_Parte2\\notebook.md": {
     "mtime": 1776119276.0,
-    "hash": "74063d28b2b01e40f4443acdf4fc2ffa"
+    "ast_hash": "74063d28b2b01e40f4443acdf4fc2ffa",
+    "semantic_hash": "74063d28b2b01e40f4443acdf4fc2ffa"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\ENG_4560_Aula_4_Modelagem_matem\u00e1tica_(Parte_2)_Alunos\\notebook.md": {
     "mtime": 1776304049.0,
-    "hash": "d3a27dbfe3612966e45cbe5e98fa84c5"
+    "ast_hash": "d3a27dbfe3612966e45cbe5e98fa84c5",
+    "semantic_hash": "d3a27dbfe3612966e45cbe5e98fa84c5"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\5\\APRESENTACAO.md": {
     "mtime": 1776306943.0,
-    "hash": "4d73d51a076d069b6dec8a0fb09c5acb"
+    "ast_hash": "4d73d51a076d069b6dec8a0fb09c5acb",
+    "semantic_hash": "4d73d51a076d069b6dec8a0fb09c5acb"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\5\\ENG 4560 - Aula 5 - Acompanhamento Sprint 1.md": {
     "mtime": 1776014939.0,
-    "hash": "07430fcc7f071107ef6eafeb53664e28"
+    "ast_hash": "07430fcc7f071107ef6eafeb53664e28",
+    "semantic_hash": "07430fcc7f071107ef6eafeb53664e28"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\5\\FUNDAMENTACAO.md": {
     "mtime": 1776306060.0,
-    "hash": "5af8a7b55a59cd5fdb908f16d7eaa86f"
+    "ast_hash": "5af8a7b55a59cd5fdb908f16d7eaa86f",
+    "semantic_hash": "5af8a7b55a59cd5fdb908f16d7eaa86f"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\5\\PESQUISA.md": {
     "mtime": 1776305610.0,
-    "hash": "60e01d5133cc4cd80fa3aaf7cd8a01ac"
+    "ast_hash": "60e01d5133cc4cd80fa3aaf7cd8a01ac",
+    "semantic_hash": "60e01d5133cc4cd80fa3aaf7cd8a01ac"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\5\\README.md": {
     "mtime": 1776119199.0,
-    "hash": "70d0dec2d054677dd67ac6ec5acd35c6"
+    "ast_hash": "70d0dec2d054677dd67ac6ec5acd35c6",
+    "semantic_hash": "70d0dec2d054677dd67ac6ec5acd35c6"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\1\\ENG 4560 - Aula 1 - Introdu\u00e7\u00e3o e apresenta\u00e7\u00e3o.pdf": {
     "mtime": 1773922197.0,
-    "hash": "886e60473d0ed23ec1c9e1455f8a44ba"
+    "ast_hash": "886e60473d0ed23ec1c9e1455f8a44ba",
+    "semantic_hash": "886e60473d0ed23ec1c9e1455f8a44ba"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\11\\ENG 4560 - Aula 11 - Metaheur\u00edstica ILS.pdf": {
+    "mtime": 1779973242.6622446,
+    "ast_hash": "6ee20a53b6fd14c2538cb03dfe05b062",
+    "semantic_hash": "6ee20a53b6fd14c2538cb03dfe05b062"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\11\\ENG 4560 - Aula 11A - Sprint Planning 3.pdf": {
+    "mtime": 1779973238.1119037,
+    "ast_hash": "2a91aaa7e23f83ad9e1bd4272e020aed",
+    "semantic_hash": "2a91aaa7e23f83ad9e1bd4272e020aed"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\2\\ENG 4560 - Aula 2A - Sprint Planning 1 e Trello.pdf": {
     "mtime": 1773922189.0,
-    "hash": "46da264c7e9cf8b37bac5b55d61ed732"
+    "ast_hash": "46da264c7e9cf8b37bac5b55d61ed732",
+    "semantic_hash": "46da264c7e9cf8b37bac5b55d61ed732"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\ENG 4010 - Aula 3B - EAP e Cronograma - 2026_1.pdf": {
     "mtime": 1773953820.0,
-    "hash": "716cebb2bf0831f9e93dd0b3229c1ac3"
+    "ast_hash": "716cebb2bf0831f9e93dd0b3229c1ac3",
+    "semantic_hash": "716cebb2bf0831f9e93dd0b3229c1ac3"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\3\\ENG 4560 - Aula 3 - Modelagem matem\u00e1tica (Parte 1).pdf": {
     "mtime": 1773922178.0,
-    "hash": "b45a0fee383200c570b104d430afc999"
+    "ast_hash": "b45a0fee383200c570b104d430afc999",
+    "semantic_hash": "b45a0fee383200c570b104d430afc999"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\ENG 4010 - Aula 4B - Canvas e \u00c9N\u00e3o\u00c9.pdf": {
     "mtime": 1774527795.0,
-    "hash": "1304338a4e93b4dd95f378837050f2c6"
+    "ast_hash": "1304338a4e93b4dd95f378837050f2c6",
+    "semantic_hash": "1304338a4e93b4dd95f378837050f2c6"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\4\\ENG 4560 - Aula 4 - Modelagem matem\u00e1tica (Parte 2).pdf": {
     "mtime": 1774527805.0,
-    "hash": "12382f706c2b66ed2897183d4b61a29d"
+    "ast_hash": "12382f706c2b66ed2897183d4b61a29d",
+    "semantic_hash": "12382f706c2b66ed2897183d4b61a29d"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\5\\ENG 4560 - Aula 5 - Acompanhamento Sprint 1.pdf": {
     "mtime": 1776012149.0,
-    "hash": "d287158350ed90b8b88164fe541904a3"
+    "ast_hash": "d287158350ed90b8b88164fe541904a3",
+    "semantic_hash": "d287158350ed90b8b88164fe541904a3"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\ENG 4560 - Aula 7A - Sprint Planning 2.pdf": {
     "mtime": 1779202343.491179,
-    "hash": "d2aafb3ba4beaa55a5619a3139c57c05"
+    "ast_hash": "d2aafb3ba4beaa55a5619a3139c57c05",
+    "semantic_hash": "d2aafb3ba4beaa55a5619a3139c57c05"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\7\\ENG 4560 - Aula 7B - Heur\u00edsticas construtivas.pdf": {
     "mtime": 1779202350.4497826,
-    "hash": "09274b96d1b3adf570a1f2081ca4b795"
+    "ast_hash": "09274b96d1b3adf570a1f2081ca4b795",
+    "semantic_hash": "09274b96d1b3adf570a1f2081ca4b795"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\8\\ENG 4560 - Aula 8 - Heur\u00edsticas de busca local.pdf": {
     "mtime": 1779202414.679603,
-    "hash": "621c222887380c34524337a3038f90d7"
+    "ast_hash": "621c222887380c34524337a3038f90d7",
+    "semantic_hash": "621c222887380c34524337a3038f90d7"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Sprint2_Consolidado\\ENG4560_RelatorioSprint02_Equipe_2_modelo_v3.pdf": {
+    "mtime": 1779410157.6023088,
+    "ast_hash": "6135d29872eaa3473510c0e21d7a97ff",
+    "semantic_hash": "6135d29872eaa3473510c0e21d7a97ff"
   },
   "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\EAP.jpg": {
     "mtime": 1776013282.0,
-    "hash": "89e89edc283458bfaa6801bdd5a9ca5c"
+    "ast_hash": "89e89edc283458bfaa6801bdd5a9ca5c",
+    "semantic_hash": "89e89edc283458bfaa6801bdd5a9ca5c"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\12\\eng_4560_aula_12_an\u00e1lise_de_sensibilidade_ils.py": {
+    "mtime": 1781784345.9412248,
+    "ast_hash": "04b2df4d2768fb8c9aa35095fe5d91f9",
+    "semantic_hash": "04b2df4d2768fb8c9aa35095fe5d91f9"
+  },
+  "C:\\Users\\rodri\\OneDrive\\Documentos\\Claude\\Cowork\\Proj. Distribui\u00e7\u00e3o Fisica\\Aulas\\12\\ENG 4560 - Aula 12 - An\u00e1lise de sensibilidade ILS.pdf": {
+    "mtime": 1781784352.382735,
+    "ast_hash": "2e9574464c1c79f489b32cc60490abc6",
+    "semantic_hash": "2e9574464c1c79f489b32cc60490abc6"
   }
 }
