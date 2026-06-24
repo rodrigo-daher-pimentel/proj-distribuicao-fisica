@@ -1,0 +1,120 @@
+{
+  "heuristic_initial": "NN",
+  "instance": "C4",
+  "criterion": "total_cost",
+  "pipeline": [
+    "initial",
+    "2-opt",
+    "relocate",
+    "swap"
+  ],
+  "solution": [
+    {
+      "route_id": 1,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        20,
+        5,
+        60,
+        13,
+        22,
+        41,
+        54,
+        14,
+        25,
+        38,
+        44,
+        47,
+        6,
+        34,
+        40,
+        30,
+        19,
+        49,
+        10,
+        26,
+        4,
+        0
+      ]
+    },
+    {
+      "route_id": 2,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        56,
+        52,
+        18,
+        36,
+        31,
+        39,
+        3,
+        0
+      ]
+    },
+    {
+      "route_id": 3,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        33,
+        9,
+        50,
+        59,
+        57,
+        28,
+        43,
+        42,
+        55,
+        17,
+        7,
+        1,
+        37,
+        53,
+        27,
+        35,
+        0
+      ]
+    },
+    {
+      "route_id": 4,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        11,
+        29,
+        23,
+        16,
+        21,
+        8,
+        12,
+        15,
+        58,
+        24,
+        51,
+        46,
+        48,
+        45,
+        32,
+        2,
+        0
+      ]
+    }
+  ],
+  "metrics": {
+    "n_routes": 4,
+    "n_fio": 4,
+    "n_vuc": 0,
+    "total_distance_km": 273.3316818520326,
+    "total_cost_rs": 1409.997522778049,
+    "total_time_h": 21.833292046300816,
+    "capacity_violations": 0,
+    "time_violations": 0
+  },
+  "elapsed_s": {
+    "2opt": 0.048894643783569336,
+    "relocate": 3.1504833698272705,
+    "swap": 0.24440956115722656
+  }
+}

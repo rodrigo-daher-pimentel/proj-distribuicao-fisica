@@ -1,0 +1,69 @@
+{
+  "heuristic_initial": "NN",
+  "instance": "C2",
+  "criterion": "total_cost",
+  "pipeline": [
+    "initial",
+    "2-opt",
+    "relocate",
+    "swap"
+  ],
+  "solution": [
+    {
+      "route_id": 1,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        3,
+        9,
+        4,
+        10,
+        6,
+        19,
+        25,
+        14,
+        1,
+        7,
+        17,
+        22,
+        13,
+        5,
+        20,
+        0
+      ]
+    },
+    {
+      "route_id": 2,
+      "vehicle": "FIO",
+      "route": [
+        0,
+        11,
+        2,
+        23,
+        16,
+        21,
+        15,
+        24,
+        12,
+        8,
+        18,
+        0
+      ]
+    }
+  ],
+  "metrics": {
+    "n_routes": 2,
+    "n_fio": 2,
+    "n_vuc": 0,
+    "total_distance_km": 141.65754593696812,
+    "total_cost_rs": 712.4863189054522,
+    "total_time_h": 9.791438648424203,
+    "capacity_violations": 0,
+    "time_violations": 0
+  },
+  "elapsed_s": {
+    "2opt": 0.02580118179321289,
+    "relocate": 0.09449577331542969,
+    "swap": 0.020745515823364258
+  }
+}
